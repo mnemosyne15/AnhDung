@@ -1,0 +1,107 @@
+.menu{
+	width: 300px;
+	height: 400px;
+	/*background: #13259c;*/
+	margin-left: 100px;
+	margin-top: 0px;
+	float: left;
+}
+.me li{
+        font-family: sans-serif;
+      	font-size: 15px;
+      	float: bottom;
+        display: block;
+}
+.menu a{
+    background: #13259c;
+    color: white;
+    display: block;
+    border-bottom: 0.025px solid;
+    margin: 0;
+    padding: 23px 31px;
+    text-decoration: none; 
+    font-weight: bold;
+}<i class="fas fa-caret-right"></i>
+.me li:hover >a{
+    color: black;
+    background: green;
+}
+
+.box1 .banner{
+	width: 950px;
+	height: 100%;
+	/*background: green;*/
+	margin-left:400px;
+}
+.sub-menu{
+	display: none;
+	position: absolute;
+}
+li>.sub-menu{
+	top: 188px	;
+   	left: 369px;
+   	width: 300px;
+}
+li:hover .sub-menu {
+ display: block;
+}
+.sub-menu li:hover {
+	 background: black;
+}
+.sub-menu li:hover >a{
+		 color: black;
+}
+.menu1{
+	display: none;
+	position: absolute;
+}
+li>.menu1{
+	top: 222px	;
+   	left: 369px;
+   	width: 300px;
+}
+li:hover .menu1 {
+ display: block;
+}
+.menu1 li:hover {
+	 background: black;
+}
+.menu1 li:hover >a{
+		 color: black;
+}
+.menu2{
+	display: none;
+	position: absolute;
+}
+li>.menu2{
+	top: 350px	;
+   	left: 369px;
+   	width: 300px;
+}
+li:hover .menu2 {
+ display: block;
+}
+.menu2 li:hover {
+	 background: black;
+}
+.menu2 li:hover >a{
+		 color: black;
+}
+.menu3{
+	display: none;
+	position: absolute;
+}
+li>.menu3{
+	top: 318px	;
+   	left: 369px;
+   	width: 300px;
+}
+li:hover .menu3 {
+ display: block;
+}
+.menu3 li:hover {
+	 background: black;
+}
+.menu3 li:hover >a{
+		 color: black;
+}

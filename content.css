@@ -1,0 +1,161 @@
+.page {
+	width: 100%;
+	height: 2400px;
+	/*background: gray;*/
+	margin: 0 auto;
+}
+.box{
+	width: 100%;
+	height: 100px;
+	/*background: red;*/
+	margin: 0 auto;
+}
+.page .box1{
+	width: 100%;
+	height: 400px;
+	/*background: red;*/
+	margin: 0;
+}
+
+
+.hihi{
+	width: 1200px;
+	height: 45%;
+	/*background: yellow;*/
+}
+.disk{
+	width: 425px;
+	height: 45%;
+	/*background: red;	*/
+	float: left;
+}
+.disk li{
+        font-family: sans-serif;
+      	font-size: 13px;
+      	float: left;
+        display: block;
+}
+.disk a{
+    display: block;
+    margin-top: 20px;
+    text-decoration: none; 
+    font-weight: bold;
+}
+.disk .box3{
+	width: 100%;
+	height: 126px;
+	/*background: yellow;	*/
+	float: left;
+}
+.box3 .ss{
+	width: 70%;
+	height: 100%;
+	/*background: green;*/
+	float: right;
+}
+.disk1{
+	width: 425px;
+	height: 13%;
+	/*background: green;*/
+	float: left;
+}
+.disk1 .cc{
+	width: 100%;
+	height: 100%;
+	/*background: pink;*/
+	float: top;
+	margin: 1px;
+}
+.cc .ct{
+	width: 60%;
+	height: 100%;
+	/*background: red;*/
+	float: right;
+}
+.disk2{
+	width: 100%;
+	height: 22%;
+	/*background: red;*/
+	float: left;	
+}
+.disk2 .cv{
+	width: 47%;
+	height: 94%;
+	/*background: pink;*/
+	float: left;
+	margin: 10px 13px 10px 12px;
+}
+.mn{
+	width: 80%;
+	height: 50px;
+	/*background: yellow;*/
+	float: left;
+	padding: 10px;	
+		position: relative;
+	left: 20px;
+}
+.mn .as{
+	width: 100%;
+	height: 50%;
+	/*background: yellow;*/
+	float: left;
+	padding: 10px;
+	position: relative;
+	top: -48px;
+	left: 100px;
+
+}
+.disk3{
+	width: 100%;
+	height: 150px;
+	/*background: red;*/
+	float: left;	
+}
+.disk3 button{
+	/*background: yellow;*/
+	width: 70px;
+	height: 70px;
+	border-radius: 50%;
+}
+.disk4{
+	width: 100%;
+	height: 280px;
+	/*background: gray;*/
+	float: left;	
+}
+.disk5{
+	width: 100%;
+	height: 100px;
+	/*background: green;*/
+	margin-top: 230px;
+	float: left;	
+}
+.dis{
+	width: 48%;
+	height: 100%;
+	background: white;
+	margin-left: 10px;
+	float: left;
+}
+.ss{
+	width: 70%;
+	height: 100%;
+	/*background: yellow;*/
+	float: right;
+}
+.diskk{
+	width: 300px;
+	height: 1500px;
+	/*background: violet;*/
+	float: right;
+	margin-right: 20px;
+	margin-top: 52px;
+}
+.diskk button{
+	width: 100%;
+	height: 60px;
+	font-size: 25px;
+	color: white;
+	border-radius: 5px;
+	border: none;
+}
